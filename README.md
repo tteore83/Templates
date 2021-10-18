@@ -1,6 +1,6 @@
 # Templates
 
-Peut importe le choix du sujet, pensez **mobile first** et soyez simple.  
+Peut importe le choix du sujet, soyez simple.  
 
 ---
 
@@ -15,7 +15,7 @@ Le choix du logiciel est libre : PhotoShop, Adobe XD, Figma...
 
 ## H2o
 
-Vous devez créer un template pour la société H2o vendant des bouteilles d'eaux. Dingue !  
+H2o vend de l'eau pure directement venue des montagnes ! Une bouteille magnifique et terriblement délicieuse !
 
 ## Kardiak
 
@@ -36,6 +36,8 @@ La société Ièp est une jeune startup lançant un produit révolutionnaire : u
 
 Sur une landing page, réalisez le design de la société choisie en ventant les mérites de son produit (les détails concernant le sujet sont libres).  
 Vous devez créer le logo ou tout ce qui se rapporte à la société choisie.  
+
+### Pas d'intégration ! Il s'agit simplement de la réalisation d'un template !
 
 Le template doit contenir ces 4 sections :
 

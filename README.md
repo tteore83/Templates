@@ -35,7 +35,7 @@ La société Ièp est une jeune startup lançant un produit révolutionnaire : u
 # À faire 
 
 Sur une landing page, réalisez le design de la société choisie en ventant les mérites de son produit (les détails concernant le sujet sont libres).  
-Vous devez créer le logo ou tout ce qui se rapporte à la société choisie.  
+Vous devez créer le logo ou tout ce qui se rapporte à la société choisie. Faites le design version mobile et desktop.  
 
 ### Pas d'intégration ! Il s'agit simplement de la réalisation d'un template !
 

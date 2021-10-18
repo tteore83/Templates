@@ -37,11 +37,12 @@ La société Ièp est une jeune startup lançant un produit révolutionnaire : u
 Sur une landing page, réalisez le design de la société choisie en ventant les mérites de son produit (les détails concernant le sujet sont libres).  
 Vous devez créer le logo ou tout ce qui se rapporte à la société choisie.  
 
-Le template doit contenir ces 3 sections :
+Le template doit contenir ces 4 sections :
 
+* (header) Une introduction
 * Les points forts du produits ;
-* Les avis clients ;
 * Où acheter ce produit.
+* Le footer
 
 Une fois la réalisation terminée, exportez votre template, pensez à réaliser un kit UI et compresser le tout sous le nom suivant :  
 [votre prenom]_[nom de la société].zip

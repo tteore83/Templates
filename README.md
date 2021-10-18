@@ -46,4 +46,4 @@ Le template doit contenir ces 3 sections :
 Une fois la réalisation terminée, exportez votre template, pensez à réaliser un kit UI et compresser le tout sous le nom suivant :  
 [votre prenom]_[nom de la société].zip
 
-Aidez-vous des sites comme Dribbble, Behance et autres pour trouver l'inspiration. Faites en sortes que votre design soit "tendance" et pas un template des années 90.
+> Aidez-vous des sites comme Dribbble, Behance et autres pour trouver l'inspiration. Faites en sortes que votre design soit "tendance" et pas un template des années 90.

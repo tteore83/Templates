@@ -1,6 +1,6 @@
 # Templates
 
-Peut importe le choix du sujet, pensez **mobile first**.  
+Peut importe le choix du sujet, pensez **mobile first** et soyez simple.  
 
 ---
 
@@ -37,10 +37,13 @@ La société Ièp est une jeune startup lançant un produit révolutionnaire : u
 Sur une landing page, réalisez le design de la société choisie en ventant les mérites de son produit (les détails concernant le sujet sont libres).  
 Vous devez créer le logo ou tout ce qui se rapporte à la société choisie.  
 
-Le template doit contenir au minimum 3 sections :
+Le template doit contenir ces 3 sections :
 
 * Les points forts du produits ;
 * Les avis clients ;
 * Où acheter ce produit.
 
-Une fois la réalisation terminée, pensez à réaliser un kit UI.
+Une fois la réalisation terminée, exportez votre template, pensez à réaliser un kit UI et compresser le tout sous le nom suivant :  
+[votre prenom]_[nom de la société].zip
+
+Aidez-vous des sites comme Dribbble, Behance et autres pour trouver l'inspiration. Faites en sortes que votre design soit "tendance" et pas un template des années 90.

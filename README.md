@@ -9,6 +9,8 @@ Le choix du logiciel est libre : PhotoShop, Adobe XD, Figma...
 
 # Objectif
 
+## Phase #1
+
 Sur une landing page, réalisez le design d'une' société que vous avez choisie (voir [SOCIETY.md](SOCIETY.md)) choisie en ventant les mérites de son produit (les détails concernant le sujet restent libres).  
 Vous devez créer le logo ou tout ce qui se rapporte à la société choisie. Faites le design version mobile et desktop.  
 
